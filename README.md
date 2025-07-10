@@ -26,10 +26,17 @@ The project was built as part of the **TCS iON Digital Learning Hub course**:
 
 ## 👤 Author
 
-**Muthupalaniappan**  
+  **Muthupalaniappan**  
+
 📎 [LinkedIn](https://www.linkedin.com/in/palanithecoder)  
+
+
 📧 muthupalani9999@gmail.com
+
+
 🔗 GitHub repo ( https://github.com/muthu242/interactive-maths-game)
+
+
 🔗 Live demo (https://muthu242.github.io/interactive-maths-game/)
 
 
