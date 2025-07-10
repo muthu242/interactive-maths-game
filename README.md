@@ -24,4 +24,11 @@ The project was built as part of the **TCS iON Digital Learning Hub course**:
 
 ---
 
+## 👤 Author
+
+**Muthupalaniappan**  
+📎 [LinkedIn](https://www.linkedin.com/in/your-link)  
+📧 muthupalani9999@gmail.com
+
+
 
