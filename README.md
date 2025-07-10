@@ -1,2 +1,27 @@
-# interactive-maths-game
-A simple interactive maths game built using HTML, CSS, and JavaScript.
+# 🎮 Interactive Maths Game
+
+This is a simple, fun, and educational **web-based Maths Game** developed using **HTML, CSS, and JavaScript**.  
+The project was built as part of the **TCS iON Digital Learning Hub course**:  
+*“Build a Maths Game (HTML, CSS and JavaScript)”*
+
+---
+
+## 🚀 Features
+
+- 🔢 Randomly generated arithmetic questions  
+- 🧠 Improves basic math skills  
+- 🎯 Interactive UI with real-time feedback  
+- 📊 Score tracking  
+- 📱 Responsive design (mobile-friendly)
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Markup  
+- **CSS3** – Styling  
+- **JavaScript** – Game logic
+
+---
+
+
